@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Drastic Statactics.CSharp.Plugins", "UnityVS.Drastic Statactics.CSharp.Plugins.csproj", "{006F4B9F-96B7-1933-10EE-E742B573DBBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Drastic Statactics.CSharp", "UnityVS.Drastic Statactics.CSharp.csproj", "{EB9E2DD8-F16B-6A17-55BA-768A1E826C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{006F4B9F-96B7-1933-10EE-E742B573DBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006F4B9F-96B7-1933-10EE-E742B573DBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006F4B9F-96B7-1933-10EE-E742B573DBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006F4B9F-96B7-1933-10EE-E742B573DBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9E2DD8-F16B-6A17-55BA-768A1E826C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9E2DD8-F16B-6A17-55BA-768A1E826C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9E2DD8-F16B-6A17-55BA-768A1E826C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9E2DD8-F16B-6A17-55BA-768A1E826C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
